@@ -1,6 +1,6 @@
 Here's the README file with all the images included:
 
-```markdown
+
 # 🥇 Olympic Medal Predictions: A Data-Driven Adventure 🏅
 
 [![Olympic Rings](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/320px-Olympic_rings_without_rims.svg.png)](https://en.wikipedia.org/wiki/Olympic_symbols#Rings)
@@ -24,15 +24,15 @@ To kick off this adventure, you'll need to have Python installed on your machine
 Once you've got those covered, simply clone this repository and dive into the code!
 
 ```bash
-git clone https://github.com/your-username/olympic-medal-predictions.git
-cd olympic-medal-predictions
+git clone https://github.com/your-username/Olympics_Prediction.git
+cd Olympics_Prediction
 ```
 
 ## 🔍 What's Inside?
 
 This repository contains the following files:
 
-- `project_1.py`: The main Python script where all the magic happens! 🧙‍♂️
+- `Olympics_Prediction.py`: The main Python script where all the magic happens! 🧙‍♂️
 - `teams.csv`: The historical Olympic data that we'll be using to train our model.
 - `README.md`: This fun and informative file you're currently reading. 📖
 - `report.pdf`: A detailed project report that walks you through the entire process, complete with visualizations and analysis. 📚
