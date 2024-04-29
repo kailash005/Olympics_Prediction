@@ -1,6 +1,3 @@
-Here's the README file with all the images included:
-
-
 # 🥇 Olympic Medal Predictions: A Data-Driven Adventure 🏅
 
 [![Olympic Rings](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/320px-Olympic_rings_without_rims.svg.png)](https://en.wikipedia.org/wiki/Olympic_symbols#Rings)
