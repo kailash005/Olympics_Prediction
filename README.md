@@ -29,7 +29,7 @@ cd Olympics_Prediction
 
 This repository contains the following files:
 
-- `Olympics_Prediction.py`: The main Python script where all the magic happens! 🧙‍♂️
+- `Olympics_model.py`: The main Python script where all the magic happens! 🧙‍♂️
 - `teams.csv`: The historical Olympic data that we'll be using to train our model.
 - `README.md`: This fun and informative file you're currently reading. 📖
 - `report.pdf`: A detailed project report that walks you through the entire process, complete with visualizations and analysis. 📚
