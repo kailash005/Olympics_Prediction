@@ -21,7 +21,7 @@ To kick off this adventure, you'll need to have Python installed on your machine
 Once you've got those covered, simply clone this repository and dive into the code!
 
 ```bash
-git clone https://github.com/your-username/Olympics_Prediction.git
+[https://github.com/kailash005/Olympics_Prediction.git]
 cd Olympics_Prediction
 ```
 
